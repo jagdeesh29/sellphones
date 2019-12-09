@@ -14,8 +14,6 @@ sidebar:
     - is_primary: false
       title: Get in touch
       url: '#three'
-    - is_primary: false
-      title: Risks
 sections:
   - actions:
       - is_primary: false
