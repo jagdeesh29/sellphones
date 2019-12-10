@@ -1,6 +1,6 @@
 ---
 title: Marketing
-content_img_path: /images/vision.png
+content_img_path: ''
 home_spotlights:
   enabled: true
   excerpt: >-
@@ -9,6 +9,7 @@ home_spotlights:
     campaigns to get more customers on board.
   home_img:
     data_position: top center
+    path: /images/marketing.jpg
     url: '#'
   weight: 4
 layout: page
