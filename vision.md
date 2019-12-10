@@ -1,6 +1,6 @@
 ---
 title: Marketing
-content_img_path: /images/marketing.jpg
+content_img_path: /images/pic01.jpg
 home_spotlights:
   enabled: true
   excerpt: >-
