@@ -5,6 +5,7 @@ home_spotlights:
   excerpt: Contact Us
   home_img:
     data_position: top center
+    path: /images/contactus.jpg
   weight: 6
 layout: page
 ---
