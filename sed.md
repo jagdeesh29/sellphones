@@ -6,7 +6,7 @@ home_spotlights:
   excerpt: "Our Company will require around $6,60,500\r."
   home_img:
     data_position: center center
-    path: ''
+    path: /images/finance.jpg
     url: '#'
   weight: 5
 layout: page
