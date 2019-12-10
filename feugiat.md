@@ -6,7 +6,7 @@ home_spotlights:
   excerpt: "My strategic approach would Differentiation-Cost. We’ll be using different innovative ideas to make\r selling of cell phones easier. We’ll be having a good research team to analyze and develop\r algorithms that’ll help estimating the values of cell phones easily which is altogether a different\r approach in the world of selling mobile phones. Our services will be quite cheap and it will also be\r user-friendly"
   home_img:
     data_position: top center
-    path: images/pic02.jpg
+    path: /images/strategy.jpg
     url: '#'
   weight: 2
 layout: page
