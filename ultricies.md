@@ -1,12 +1,12 @@
 ---
 title: Risk
-content_img_path: ''
+content_img_path: /images/risks.jpg
 home_spotlights:
   enabled: true
   excerpt: "Our venture has risks associated with team, technology, finance, and market. The venture is very\r much dependent on the senior developers who’ll be helping to build the website efficiently."
   home_img:
-    data_position: 25% 25%
-    path: images/pic03.jpg
+    data_position: ''
+    path: ''
     url: '#'
   weight: 3
 layout: page
