@@ -1,6 +1,6 @@
 ---
 title: Finance
-content_img_path: images/pic04.jpg
+content_img_path: ''
 home_spotlights:
   enabled: true
   excerpt: "Our Company will require around $6,60,500\r."
