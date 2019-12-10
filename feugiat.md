@@ -1,6 +1,6 @@
 ---
 title: Strategies
-content_img_path: images/pic04.jpg
+content_img_path: ''
 home_spotlights:
   enabled: true
   excerpt: "My strategic approach would Differentiation-Cost. We’ll be using different innovative ideas to make\r selling of cell phones easier. We’ll be having a good research team to analyze and develop\r algorithms that’ll help estimating the values of cell phones easily which is altogether a different\r approach in the world of selling mobile phones. Our services will be quite cheap and it will also be\r user-friendly"
