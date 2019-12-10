@@ -6,7 +6,7 @@ home_spotlights:
   excerpt: "Our venture has risks associated with team, technology, finance, and market. The venture is very\r much dependent on the senior developers who’ll be helping to build the website efficiently."
   home_img:
     data_position: ''
-    path: /images/risks.jpg
+    path: /images/risk-management.jpg
     url: '#'
   weight: 3
 layout: page
