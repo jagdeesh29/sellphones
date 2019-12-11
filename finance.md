@@ -11,7 +11,8 @@ home_spotlights:
   weight: 5
 layout: page
 ---
-Our Company will require around $6,60,500. 
+Our Company will require around $6,60,500
+. 
 
 ![](/images/finance.png)
 
