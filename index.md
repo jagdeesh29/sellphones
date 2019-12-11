@@ -3,14 +3,11 @@ title: Home
 sidebar:
   entries:
     - is_primary: true
-      title: Welcome1
+      title: Home
       url: '#intro'
     - is_primary: false
       title: Who we are
       url: '#one'
-    - is_primary: false
-      title: What we do
-      url: '#two'
     - is_primary: false
       title: Get in touch
       url: '#three'
