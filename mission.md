@@ -1,5 +1,5 @@
 ---
-title: VISION
+title: Vision
 home_spotlights:
   enabled: true
   excerpt: "To become the world’s leading company to help sell second-hand phones efficiently. In the long\r term, my company will be helping to sell second-hand phones at the best price available"
