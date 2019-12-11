@@ -30,17 +30,7 @@ sections:
     type: spotlights
   - background_style: style1
     component: contact.html
-    contact_list:
-      - text: |-
-          12345 Somewhere Road #654
-          Nashville, TN 00000-0000
-          USA
-        title: Address
-      - text: user@Hyperspace.tld
-        title: Email
-        url: '#'
-      - text: (000) 000-0000
-        title: Phone
+    contact_list: []
     section_id: three
     social:
       social_icons:
@@ -60,6 +50,7 @@ sections:
           title: LinkedIn
           url: '#'
       title: Social
+    subtitle: ''
     text: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
