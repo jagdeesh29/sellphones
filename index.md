@@ -4,7 +4,7 @@ sidebar:
   entries:
     - is_primary: true
       title: Home
-      url: '#intro'
+      url: ''
     - is_primary: false
       title: About Us
       url: '#one'
