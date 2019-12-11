@@ -50,7 +50,7 @@ sections:
           title: LinkedIn
           url: '#'
       title: Social
-    subtitle: ''
+    subtitle: saas
     text: >-
       Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
       mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
