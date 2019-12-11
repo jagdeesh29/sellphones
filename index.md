@@ -6,7 +6,7 @@ sidebar:
       title: Home
       url: '#intro'
     - is_primary: false
-      title: Who we are
+      title: About Us
       url: '#one'
     - is_primary: false
       title: Get in touch
@@ -20,10 +20,8 @@ sections:
     background_style: style1
     component: intro.html
     section_id: intro
-    subtitle: |-
-      Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
-    title: Hyperspace
+    subtitle: "Our company makes selling of used phones easier at the right price\r. So in this model there is a seller who wants to sell his mobile and there is a buyer who wants to purchase a mobile\r. The role of our company is to determine the right price of the mobile that the seller is trying to sell\r. For this we’ll use algorithms to collect data about phones which will help us estimate the cost of the cell phones depending on their condition\r. Then it goes through a verification process where in the seller submits his cell phone to our service center, in our service center we check for all the defects and give a final estimated price. Once this is done the ad for User’s cell phone goes live on our website through which any person can buy it\r."
+    title: SellPhones
     type: intro
   - background_style: style2
     component: spotlights.html
